@@ -1,6 +1,4 @@
 
-<h2 align="left">Hi, my name is João Vitor and I am a fullstack developer from São Paulo, Brasil</h2>
-
 ###
 
 <div align="left">
